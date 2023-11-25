@@ -1,0 +1,9 @@
+#5a2788 roxo
+
+#c60ec8 rosa
+
+Fonte:
+
+" fabricio designer" Gotham book - tamanho 49
+
+" whats e port " Gotham Ultra tamanho 75
